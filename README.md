@@ -3,7 +3,6 @@
 
 
 <p align="left">
-- 👋 Hi, I'm @ F4brizio<br>
 - 👀 I'm interested in web development.<br>
 - 🌱 I am currently learning vue.****
 </p>
