@@ -100,6 +100,8 @@
   
 </p>
 
+<hr></hr>
+
 ## 📊 Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F4brizio&show_icons=true&theme=radical)
 
