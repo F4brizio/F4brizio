@@ -1,12 +1,19 @@
-<h1 align="left" id="macropower-title">Hello there! I'm Fabrizio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<div align="center" width="50">
+
+<h1 align="center" id="macropower-title">Hello there! I'm Fabrizio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 
-<p align="left">
+  
+<p align="center">
 - 👀 I'm interested in web development.<br>
 - 🌱 I am currently learning vue.****
 </p>
-<p align="left">
+  
+</div>
+  
+<p align="center">
 <a href="https://twitter.com/intent/follow?screen_name=F4brizioDev"><img src="https://img.shields.io/twitter/follow/F4brizioDev?label=Follow"/></a>
 <a href="https://www.linkedin.com/in/f4brizio/"><img src="https://img.shields.io/badge/-f4brizio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f4brizio/"/></a>
 <a href="#"><img src="https://img.shields.io/github/followers/F4brizio?label=Follow&style=social"/></a>
@@ -14,6 +21,8 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=F4brizio&style=plastic&label=visits"/></a>
 <a href="https://stackoverflow.com/users/9032099"><img src="https://img.shields.io/stackexchange/stackoverflow/r/9032099?color=orange&label=reputation&logo=stackoverflow"/></a>
 </p>
+
+<hr></hr>
 
 ## 🛠️ My favorite tools
 
